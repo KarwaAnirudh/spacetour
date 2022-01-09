@@ -1,0 +1,148 @@
+body{
+  background : no-repeat url("background-crew-desktop.jpg");
+  background-size: 100%;
+  position: relative;
+}
+.navbar{
+background: linear-gradient(90deg, #252a2b, #5a6494) ;
+  width: 700px;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 20px;
+  text-align: center;
+
+
+}
+.navbar:hover{
+  background: linear-gradient(90deg, #5919e6, #b71fe0) ;
+}
+.navbar-elements{
+  margin: 15px 50px 0 0;
+
+
+}
+.element{
+  color: white;
+  margin: 35px;
+  text-decoration: none;
+  font:12px "Oswald", sans-serif;
+}
+.element:hover{
+  text-decoration: underline;
+
+}
+hr{
+  position: absolute;
+  top: 38px;
+  width: 40%;
+  margin-left: 130px;
+}
+
+.space-logo{
+  width: 5%;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+.top-text{
+  color: white;
+
+  position: absolute;
+  top: 140px;
+  left: 70px;
+  font: 30px "Merriweather", sans-serif;
+}
+.Text{
+  color: white;
+  width: 33%;
+  text-align: left;
+  position: absolute;
+  top:290px;
+  left: 70px;
+}
+.img{
+  position: absolute;
+  left: 350px;
+  top: 70px;
+  width: 520px;
+}
+.img1{
+  position: absolute;
+  left: 400px;
+  top: 70px;
+  width: 400px;
+}
+.heading1{
+  font: 70px "Merriweather", Serif;
+  margin: 10px 0;
+width: 150%
+}
+.heading2{
+  font: 35px "Hind-Siliguri", sans-serif;
+  opacity: 0.7;
+  margin: 10px 0;
+
+}
+
+.para{
+
+  font: 16px "Hind-Siliguri", Serif;
+  line-height: 1.5;
+  width: 90%
+}
+.footer{
+
+
+
+}
+.footer-tag{
+  color: white;
+  text-decoration: none;
+  position: absolute;
+
+  top: 130px;
+  left: 500px;
+  font-size: 80px;
+  margin: 20px;
+
+}
+.footer-tag1{
+  color: white;
+ text-decoration: none;
+position: absolute;
+
+top: 130px;
+left: 530px;
+font-size: 80px;
+margin: 20px;
+}
+.footer-tag2{
+  color: white;
+ text-decoration: none;
+position: absolute;
+
+top: 130px;
+left: 560px;
+font-size: 80px;
+margin: 20px;
+}
+.footer-tag3{
+  color: white;
+ text-decoration: none;
+position: absolute;
+top: 130px;
+left: 590px;
+font-size: 80px;
+margin: 20px;
+}
+
+.footer-tag:hover{
+  color:#3d7bc2;
+}
+.footer-tag1:hover{
+  color:#3d7bc2;
+}.footer-tag2:hover{
+  color:#3d7bc2;
+}.footer-tag3:hover{
+  color:#3d7bc2;
+}

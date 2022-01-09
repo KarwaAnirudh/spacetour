@@ -1,0 +1,168 @@
+body {
+  background: no-repeat url("background-technology-desktop.jpg");
+  background-size: 100%;
+  position: relative;
+
+}
+
+.navbar {
+  background: linear-gradient(90deg, #252a2b, #5a6494);
+  width: 700px;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 20px;
+  text-align: center;
+}
+
+.navbar:hover {
+  background: linear-gradient(90deg, #5919e6, #b71fe0);
+}
+
+.navbar-elements {
+  margin: 15px 50px 0 0;
+}
+
+.element {
+  color: white;
+  margin: 35px;
+  text-decoration: none;
+  font: 12px "Oswald", sans-serif;
+}
+
+.element:hover {
+  text-decoration: underline;
+}
+
+hr {
+  position: absolute;
+  top: 38px;
+  width: 40%;
+  margin-left: 130px;
+}
+
+.space-logo {
+  width: 5%;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.Text {
+  color: white;
+  width: 40%;
+  text-align: left;
+  position: absolute;
+  top: 210px;
+  left: 350px;
+}
+
+.heading1 {
+  font: 59px "Merriweather", Serif;
+  margin: 20px 0;
+
+}
+
+.heading2 {
+  font: 19px "Hind-Siliguri", sans-serif;
+  opacity: 50%;
+}
+
+.para {
+  font: 16px "Hind-Siliguri", Serif;
+  line-height: 1.5;
+  width: 70%;
+  line-height: 1.7;
+
+}
+
+.img {
+  width:350px;
+  position: absolute;
+  top: 80px;
+  left: 503px;
+
+}
+.footer{
+  font: 19px "Hind-Siliguri", sans-serif;
+  position:absolute;
+  top: 100px;
+  left: 150px;
+  color: white;
+  font-size: 30px;
+}
+.number3{
+  opacity: 50%;
+}
+.navbar1{
+  width: 10%;
+  height:300px;
+
+  position: absolute;
+  top: 180px;
+  left: 120px;
+  text-align: center;
+}
+.circle1{
+  width: 80px;
+  height: 80px;
+  border: solid white;
+  border-radius: 100%;
+  position:relative;
+  left: 27px;
+  top: 35px;
+}
+.circle1:hover{
+  background-color: #5f2ad5;
+}
+.circle2:hover{
+  background-color: #5f2ad5;
+}.circle3:hover{
+  background-color: #5f2ad5;
+}
+
+
+.tag1{
+color: white;
+text-decoration: none;
+  position: absolute;
+  top: 33px;
+  left: 36px;
+
+
+}
+.circle2{
+  width: 80px;
+  height: 80px;
+    border: solid white;
+  border-radius: 100%;
+  position:relative;
+  left: 27px;
+  top: 70px;
+
+}
+.tag2{
+  color: white;
+  text-decoration: none;
+    position: absolute;
+    top: 33px;
+    left: 36px;
+
+}
+.circle3{
+  width: 80px;
+  height: 80px;
+  border: solid white;
+  border-radius: 100%;
+  position:relative;
+  left: 27px;
+  top: 105px;
+
+}
+.tag3{
+  color: white;
+  text-decoration: none;
+    position: absolute;
+    top: 33px;
+    left: 36px;
+
+}

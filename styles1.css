@@ -1,0 +1,183 @@
+body {
+  background: no-repeat url("background-destination-desktop.jpg");
+  background-size: 100%;
+  position: relative;
+}
+
+.navbar {
+  background: linear-gradient(90deg, #252a2b, #5a6494);
+  width: 700px;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 20px;
+  text-align: center;
+}
+
+.navbar:hover {
+  background: linear-gradient(90deg, #5919e6, #b71fe0);
+}
+
+.navbar-elements {
+  margin: 15px 50px 0 0;
+}
+
+.element {
+  color: white;
+  margin: 35px;
+  text-decoration: none;
+  font: 12px "Oswald", sans-serif;
+}
+
+.element:hover {
+  text-decoration: underline;
+}
+
+hr.header-hr{
+  position: absolute;
+  top: 38px;
+  width: 40%;
+  margin-left: 130px;
+}
+
+.space-logo {
+  width: 5%;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.Text {
+  color: white;
+  width: 30%;
+  text-align: left;
+  position: absolute;
+  top: 180px;
+  left: 800px;
+}
+
+.heading1 {
+  font: 100px "Merriweather", Serif;
+  margin: 20px 0;
+}
+
+.heading2 {
+  font: 19px "Merriweather", sans-serif;
+  color: white;
+  position: absolute;
+  top: 110px;
+  left: 190px;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.one {
+  opacity: 60%;
+  font-size: 28px;
+  letter-spacing: 4px;
+}
+
+.para {
+  font: 16px "Hind-Siliguri", Serif;
+  line-height: 1.5;
+}
+
+.img {
+  width: 300px;
+  position: absolute;
+  top: 120px;
+  left: 110px;
+}
+
+.navbar1{
+  color: white;
+
+  width: 400px;
+  height: 50px;
+  position: absolute;
+  left: 799px;
+  top: 130px;
+  text-align: left;
+
+
+}
+.navbar1-elements{
+  margin: 20px 0px 20px 0;
+}
+.anchor-element1{
+  margin: 20px 20px 20px 0;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.anchor-element2{
+  margin: 20px 20px 20px 0;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.anchor-element3{
+  margin: 20px 20px 20px 0;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.anchor-element4{
+  margin: 20px 20px 20px 0;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+.anchor-element1:hover{
+  background-color: white;
+  color:black;
+  padding: 3px;
+  border-radius: 20%;
+  border: solid;
+  border-color: white;
+}
+.anchor-element2:hover{
+  background-color:white;
+  color:black;
+  padding: 3px;
+  border-radius: 10%;
+}
+.anchor-element3:hover{
+  background-color:white;
+  color:black;
+  padding: 3px;
+  border-radius: 10%;
+}
+.anchor-element4:hover{
+  background-color:white;
+  color:black;
+  padding: 3px;
+  border-radius: 10%;
+}
+.down-text{
+  position: absolute;
+
+}
+.down-text1{
+  display: inline-block;
+  font: 16px "Oswald";
+}
+.down-text2{
+  position:absolute;
+  display: inline-block;
+  left: 200px;
+  width: 120%;
+
+  margin-left: 5px;
+    font: 16px "Oswald";
+}
+.avg-distance{
+  opacity: 50%;
+  font-size: 20px;
+}
+.travel-time{
+  font-size: 20px;
+  opacity: 50%
+}
+.travel-number{
+
+}
